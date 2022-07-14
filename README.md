@@ -126,3 +126,12 @@ The software is under development. If you find any issues, feel free add a new i
 ## Contact
 
 Daniel Teixeira <<dfteixeira@fe.up.pt>>
+
+## Institutions and Funding
+
+<a href="https://www.it.pt/">![IT logo](https://github.com/danielfilipeteixeira24/wintech2022-wiperf/blob/main/logos/it.png)</a> &nbsp;
+<a href="https://sigarra.up.pt/feup/">![FEUP logo](https://github.com/danielfilipeteixeira24/wintech2022-wiperf/blob/main/logos/feup.png)</a> &nbsp;
+<a href="https://www.fct.pt/">![FCT logo](https://github.com/danielfilipeteixeira24/wintech2022-wiperf/blob/main/logos/fct.png)</a>&nbsp;
+<a href="https://www.compete2020.gov.pt/">![COMPETE2020 logo](https://github.com/danielfilipeteixeira24/wintech2022-wiperf/blob/main/logos/compete2020.png)</a>&nbsp;
+<a href="https://portugal2020.pt/">![PT2020 logo](https://github.com/danielfilipeteixeira24/wintech2022-wiperf/blob/main/logos/pt2020.png)</a>&nbsp;
+<a href="https://www.europarl.europa.eu/factsheets/en/sheet/95/el-fondo-europeo-de-desarrollo-regional-feder-">![FEDER logo](https://github.com/danielfilipeteixeira24/wintech2022-wiperf/blob/main/logos/ue.png)</a>&nbsp;
